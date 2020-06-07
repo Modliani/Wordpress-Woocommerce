@@ -1,11 +1,11 @@
 <?php 
 /*
-    Plugin Name: WooCommerce - Payeer Payment Gateway
-    Plugin URI: https://payeer.com
+    Plugin Name: MODLIANI - MODLIANI ART 
+    Plugin URI: HTTPS:// MODLIANI.ART
     Description: Module for accepting payments in the payment system Payeer.
     Version: 1.0.2
     Author: Payeer
-    Author URI: https://payeer.com
+    Author URI: https://modliani.art
 
     Copyright: © 2010-2016 Payeer.
 	License: GNU General Public License v3.0
